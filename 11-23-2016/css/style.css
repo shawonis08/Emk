@@ -1,0 +1,21 @@
+h9{
+	color: blue;
+	font-size: 22px;
+	f
+}
+p1{
+	color: gray;
+	font-size: 14px;
+	font: "Times New Roman";
+}
+/*for picking class*/
+.headline{
+	color: red;
+	font: "Times New Roman";
+	font-size:22px;
+}
+/*for picking ID*/
+#theader1{
+	color: gray;
+	font-size: 18px;
+}
