@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>3rd class 11/27/16</title>
+	<title>3rd class CSS</title>
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>

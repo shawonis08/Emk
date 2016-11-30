@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>2nd class 11/23/16</title>
+		<title>2nd class CSS</title>
 		<link rel="stylesheet" type="text/css" href="css/style.css">
 		<!-- Internal CSS -->
 		<style type="text/css">
