@@ -1,0 +1,34 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}.main_container{
+	background-color: #9575cd;
+	height: 1080px;
+	width: 100%;
+}.header{
+	background-color:  #8bc34a;
+	height: 182px;
+	width: 100%;
+}.navbar{
+	background-color:  #84ffff;
+	height: 68px;
+	width: 100%;
+}.wrap_container{
+	background-color:  #ff3d00;
+	height: 782px;
+	width: 100%;
+}.content{
+	background-color: #8d6e63;
+	height: 782px;
+	width: 78%;
+	float: left;
+}.right_navbar{
+	background-color: #cddc39;
+	height: 782px;
+	width: 22%;
+	float: left;
+}.footer{
+	background-color:  #607d8b;
+	height: 48px;
+	width: 100%;
+}
