@@ -1,0 +1,138 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+/*for texture*/
+body{
+	background-color: #422006;
+	background-image:url(../img/fabric-of-squares.png);
+	width:100%;
+	height:1080px;
+}
+/*main page distribution size*/
+.main_container{
+	width: 80%;
+	height:1080px;
+	margin:auto;
+}
+/*header start*/
+.header{
+	background-color: #8d6e63;
+	width: 100%;
+	height: 48px;
+}
+.logo{
+	min-width: 20%;
+	height: 48px;
+	background-image:url(../img/usa-fly-logoa.jpg);
+	background-size: auto 46px;
+	background-repeat: no-repeat;
+	margin-top:1px;
+	margin-left: 3%;
+	float:left;
+}
+.tagline{
+	min-width:40%;
+	float:right;
+	margin:1% 1% 0% 0%;
+}
+.tagline >h2{
+	color:#fff;
+	letter-spacing:5px;
+}
+/*container 1 start*/
+.container_1{
+	width: 100%;
+	height: 694px;
+}
+.page_image{
+	width:100%;
+	min-width:100px;
+	height:634px;
+	background-image:url(../img/cropped-1366-768-421545.jpg);
+	background-repeat:no-repeat;
+}
+.navbar{
+	background-color:#1E0F01;
+	width:100%;
+	min-width:70%;
+	min-height:60px;
+}
+.item{
+	width:70%;
+	min-height:60px;
+	list-style-type:none;
+	margin:0px auto;
+}
+.item > li h3{
+	float:left;
+	margin:2% 2% 0% 7%;
+	color:#C6C6C6;
+}
+.item > li h3:hover{
+	color:#A4790F;
+}
+/*container 2 start*/
+.container_2{
+	background-color:#8d6e63;
+	width:100%;
+	height:300px;
+}
+.article{
+	float:left;
+	width:80%;
+	height:300px;
+}
+.article_image{
+	max-width:50%;
+	height:auto;
+	margin:2% auto;
+}
+.article_content{
+	color:#1E0F01;
+	width:80%;
+	height:120px;
+	margin: 2% auto;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+.article_content > h5 > p > a{
+	color:#000;
+	text-decoration:none;
+}
+.article_content > h5 > p > a:hover{
+	color:#fff;
+	
+}
+.right_navbar{
+	background-color:#1E0F01;
+	float:right;
+	width:20%;
+	height:295px;
+	margin-top:2.5px;
+	list-style-type:none;
+}
+.right_navbar > li > h3{
+	color:#C6C6C6;
+	margin-left:12%;
+	margin-top:13%;
+}
+.right_navbar > li > h3:hover{
+	color:#A4790F;;
+}
+/*footer start*/
+.footer{
+	background-color:#1E0F01;
+	width:100%;
+	height:38px;
+	color:#fff;
+}
+.info1{
+	float:left;
+	margin:1% 0% 0% 2%;
+	letter-spacing:1.4px;
+}
+.info2{
+	float:right;
+	margin:1% 2% 0% 0%;
+	letter-spacing:0.5px;
+}
