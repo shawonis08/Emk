@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Basic Html Css Design</title>
+	<title>Coffee Bar</title>
 	<!-- css connection -->
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
